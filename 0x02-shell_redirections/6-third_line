@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 third | tail +3  
+head -3 third | tail -1  
